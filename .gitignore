@@ -1,0 +1,8 @@
+venv/
+.idea/
+rule/__pycache__/
+test_generrator/__pycache__/
+data_types/__pycache__/
+feature_extraction/__pycache__/
+loader_skin_cancer/__pycache__/
+model/__pycache__/
